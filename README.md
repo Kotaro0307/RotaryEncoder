@@ -1,3 +1,3 @@
 # RotaryEncoder
 ロータリーエンコーダのライブラリ
-mbed Compilerで
+mbed Compilerです
