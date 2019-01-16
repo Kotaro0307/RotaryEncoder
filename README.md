@@ -1,3 +1,3 @@
 # RotaryEncoder
-ロータリーエンコーダのライブラリ
+ロータリーエンコーダのライブラリ　
 mbed Compilerです
