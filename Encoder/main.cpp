@@ -10,5 +10,7 @@ int main()
 {
     while(1) {
         pc.printf("%d\n\r", R1.Get_Count());
+        //直径10mm、分解能は2048
+        pc.printf("%.2lf\n\r", R1.Get_Circumference(10, 2048));
     }
 }
